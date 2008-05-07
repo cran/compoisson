@@ -1,0 +1,17 @@
+19faafdd9468110d22d6241310de4b14 *DESCRIPTION
+bdc54466eb626539c4241446c8d8af20 *NAMESPACE
+85fc0f3ac6f2989a0c1448840e1ec46a *R/com.R
+92d46185d805eba9c8d67220b9f65e18 *R/log.space.R
+6b596a30aa096fee47b8df6773f4a2fa *data/insurance.RData
+c2d8561da23549a1d36b2190634c21c1 *man/com.compute.z.Rd
+69869442fce87415a1b371489fc6a9f1 *man/com.confint.Rd
+473696f0912466e17dcd3a9062dbfc5d *man/com.expectation.Rd
+74834926a121b87d2e020d805944c74d *man/com.fit.Rd
+03e6c973af47f3cf8d416ae8e25e44a4 *man/com.log.density.Rd
+81cdd77c18e62ddfe991c83d01462f3a *man/com.loglikelihood.Rd
+79bffb6d789c5e97edb26435ee4a21cc *man/com.logspace.Rd
+598e65e0c91b83261f0a9e26eac709a2 *man/com.mean.Rd
+491279f24bf2b9881ac09b9a7da81639 *man/com.var.Rd
+56945b47aa6ce20c8e205f483affb0d7 *man/compoisson-data.Rd
+c031dfcdcbdbfee85911fe49cbb10ed4 *man/compoisson-package.Rd
+35bb0f135d5f6661afdbd810b5230b9b *man/dcom.Rd
